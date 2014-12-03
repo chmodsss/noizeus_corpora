@@ -1,0 +1,1 @@
+Speech corpora (database of speech files with transcription) is added for speech recognition evaluation system
